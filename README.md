@@ -4,7 +4,7 @@
 👉 https://huggingface.co/spaces/RaviS2005/Medical_Chatbot
 
 🔗 GitHub Repository:
-👉 
+👉 https://github.com/ravishankar-05/Medical_Chatbot/tree/main
 
 📌 Overview
 
@@ -129,10 +129,10 @@ Suitable for placements, internships, and interviews
 
 🧑‍💻 Author
 
-Kumar Sundram
+Ravi Shankar
 🎓 B.Tech CSE, IIIT Bhagalpur
 💡 AI | ML | GenAI | RAG
-🔗 GitHub: https://github.com/sundramsingh1501
+🔗 GitHub: https://github.com/ravishankar-05
 
 ⭐ Future Improvements
 
