@@ -112,9 +112,6 @@ Secure environment variables
 
 Production-ready inference
 
-🔗 Live App:
-👉 https://huggingface.co/spaces/sundram1501/medical-ai-chatbot
-
 🎯 Why This Project Matters
 
 Demonstrates real-world GenAI usage
